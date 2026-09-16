@@ -1,0 +1,6 @@
+{
+  "name": "5,500+ Faceless Reels & Videos",
+  "description": "Clean, mobile-first landing page for 5,500+ ready-to-use faceless reels and aesthetic vertical videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
